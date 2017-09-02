@@ -49,7 +49,7 @@ msgstr "-40dB"
 
 #. /part[0,15]/kit[0,15]/subpars/Phmagtype option
 msgid "-60dB"
-msgstr "-60dB
+msgstr "-60dB"
 
 #. /part[0,15]/kit[0,15]/subpars/Phmagtype option
 msgid "-80dB"
