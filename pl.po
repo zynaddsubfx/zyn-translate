@@ -1,0 +1,5216 @@
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Panning Echo 3"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPanning tooltip
+msgid "Panning of ADsynth (0 random, 1 left, 127 right)"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/parameter[0,127] tooltip
+#. /sysefx[0,3]/parameter[0,127] tooltip
+#. /insefx[0,7]/parameter[0,127] tooltip
+msgid "Parameter Accessor"
+msgstr ""
+
+#. /part[0,15]/Pefxroute[0,2] option
+msgid "Part Out"
+msgstr ""
+
+#. /part[0,15]/Pvolume tooltip
+msgid "Part Volume"
+msgstr ""
+
+#. /part[0,15]/Penabled tooltip
+msgid "Part enable"
+msgstr ""
+
+#. /part[0,15]/Pkeyshift tooltip
+msgid "Part keyshift"
+msgstr ""
+
+#. /Pinsparts[0,7] tooltip
+msgid "Part to insert part onto"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part1"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part10"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part11"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part12"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part13"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part14"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part15"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part16"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part2"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part3"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part4"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part5"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part6"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part7"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part8"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Part9"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pphase tooltip
+#. /sysefx[0,3]/Alienwah/Pphase tooltip
+#. /insefx[0,7]/Alienwah/Pphase tooltip
+msgid "Phase"
+msgstr "Faza"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_phase_randomness tooltip
+msgid "Phase Randomness"
+msgstr "Losowość faz"
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Phaser"
+msgstr "Fazer"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 1"
+msgstr "Fazer 1"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 2"
+msgstr "Fazer 2"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 3"
+msgstr "Fazer 3"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 4"
+msgstr "Fazer 4"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 5"
+msgstr "Fazer 5"
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "Phaser 6"
+msgstr "Fazer 6"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type option
+msgid "Pink"
+msgstr "Różowy"
+
+#. /part[0,15]/kit[0,15]/padpars/PBendAdjust tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PBendAdjust tooltip
+#. /part[0,15]/kit[0,15]/subpars/PBendAdjust tooltip
+msgid "Pitch bend adjustment"
+msgstr ""
+
+#. /part[0,15]/polyType option
+msgid "Polyphonic"
+msgstr ""
+
+#. /part[0,15]/Ppolymode tooltip
+msgid "Polyphony mode"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.portamento tooltip
+#. /ctl/portamento.portamento tooltip
+msgid "Portamento Enable"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.time tooltip
+#. /ctl/portamento.time tooltip
+msgid "Portamento Length"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.receive tooltip
+#. /ctl/portamento.receive tooltip
+msgid "Portamento MIDI Receive"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.propDepth tooltip
+#. /ctl/portamento.propDepth tooltip
+msgid "Portamento proportional depth"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.propRate tooltip
+#. /ctl/portamento.propRate tooltip
+msgid "Portamento proportional scale"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandtype option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Pow"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Pow2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation option
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "Power"
+msgstr "Moc"
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "PowerL"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "PowerU"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchStrength tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchStrength tooltip
+msgid "Punch Strength"
+msgstr "Siła uderzenia"
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchVelocitySensing tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchVelocitySensing tooltip
+msgid "Punch Velocity control"
+msgstr "Kontrola prędkości uderzenia"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pq tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pq tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pq tooltip
+#. /sysefx[0,3]/filterpars/Pq tooltip
+#. /insefx[0,7]/filterpars/Pq tooltip
+msgid "Quality Factor (resonance/bandwidth)"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Quantisize"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "Quater"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Ptype option
+#. /sysefx[0,3]/Reverb/Ptype option
+#. /insefx[0,7]/Reverb/Ptype option
+msgid "Random"
+msgstr "Losowo"
+
+#. /part[0,15]/ctl/pitchwheel.bendrange tooltip
+#. /ctl/pitchwheel.bendrange tooltip
+msgid "Range of MIDI Pitch Wheel"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pformantslowness tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pformantslowness
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pformantslowness tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pformantslowness tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pformantslowness tooltip
+#. /sysefx[0,3]/filterpars/Pformantslowness tooltip
+#. /insefx[0,7]/filterpars/Pformantslowness tooltip
+msgid "Rate that formants change"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.type option
+msgid "Rectanglar"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PBandwidth tooltip
+msgid "Relative Fine Detune Gain"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Phrelbw[0,63] tooltip
+msgid "Relative bandwidth"
+msgstr "Względna przepustowość"
+
+#. /part[0,15]/ctl/portamento.updowntimestretch tooltip
+#. /ctl/portamento.updowntimestretch tooltip
+msgid "Relative length of glide up vs glide down"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PR_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PR_dt tooltip
+msgid "Release Time"
+msgstr "Czas wyzwalania"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PR_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PR_val tooltip
+msgid "Release Value"
+msgstr "Wartość wyzwalania"
+
+#. /part[0,15]/ctl/resonancebandwidth.depth tooltip
+#. /ctl/resonancebandwidth.depth tooltip
+msgid "Resonance Bandwidth MIDI Depth"
+msgstr ""
+
+#. /part[0,15]/ctl/resonancecenter.depth tooltip
+#. /ctl/resonancecenter.depth tooltip
+msgid "Resonance Center MIDI Depth"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Presonance tooltip
+msgid "Resonance Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Prespoints[0,255] tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Prespoints[0,255] tooltip
+msgid "Resonance data points"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pq tooltip
+#. /sysefx[0,3]/EQ/filter[0,7]/Pq tooltip
+#. /insefx[0,7]/EQ/filter[0,7]/Pq tooltip
+msgid "Resonance/Bandwidth"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation option
+msgid "Rev"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Reverb"
+msgstr "Pogłos"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Proomsize tooltip
+#. /sysefx[0,3]/Reverb/Proomsize tooltip
+#. /insefx[0,7]/Reverb/Proomsize tooltip
+msgid "Room Size"
+msgstr "Rozmiar pokoju"
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Room1"
+msgstr "Pokój1"
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Room2"
+msgstr "Pokój2"
+
+#. /part[0,15]/kit[0,15]/Psubenabled tooltip
+msgid "SUBsynth enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct tooltip
+msgid "Samples per octave"
+msgstr "Próbki na oktawę"
+
+#. /microtonal/Pmiddlenote tooltip
+msgid "Scale degree 0 note"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsnsinv tooltip
+#. /sysefx[0,3]/DynamicFilter/Pampsnsinv tooltip
+#. /insefx[0,7]/DynamicFilter/Pampsnsinv tooltip
+msgid "Sense Inversion"
+msgstr ""
+
+#. /part[0,15]/Ppanning tooltip
+msgid "Set Panning"
+msgstr "Ustaw panoramowanie"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/magnitude[0,127] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/magnitude[0,127] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/magnitude[0,127] tooltip
+msgid "Sets harmonic magnitude"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/phase[0,127] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/phase[0,127] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/phase[0,127] tooltip
+msgid "Sets harmonic phase"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype tooltip
+msgid "Shape of LFO"
+msgstr "Kształt LFO"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction
+#. tooltip
+msgid "Shape of distortion to be applied"
+msgstr "Kształt zniekształcenia do zastosowania"
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "Shift"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "ShiftL"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "ShiftU"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PVolumeminus tooltip
+msgid "Signal Inverter"
+msgstr "Odwracanie sygnału"
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Simple Echo"
+msgstr "Proste echo"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandtype option
+msgid "Sin"
+msgstr "Sin"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation option
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type option
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Sine"
+msgstr "Sinus"
+
+#. /part[0,15]/Pkitmode option
+msgid "Single-Kit"
+msgstr ""
+
+#. /config/cfg.OscilSize tooltip
+#. /config/cfg.OscilPower tooltip
+msgid "Size Of Oscillator Wavetable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize tooltip
+msgid "Size of each wavetable element"
+msgstr ""
+
+#. /microtonal/Pmapsize tooltip
+msgid "Size of key map"
+msgstr ""
+
+#. /config/cfg.SoundBufferSize tooltip
+msgid "Size of processed audio buffer"
+msgstr "Rozmiar przetworzonego buforu dźwięku"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type option
+msgid "Sound"
+msgstr "Dźwięk"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psapar tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psapar tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psapar tooltip
+msgid "Spectral Adjustment Parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype tooltip
+msgid "Spectral Adjustment Type"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type tooltip
+msgid "Spread of harmonic frequencies"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "Square"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/Phyper tooltip
+#. /sysefx[0,3]/Phaser/Phyper tooltip
+#. /insefx[0,7]/Phaser/Phyper tooltip
+msgid "Square the LFO"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pstartphase tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pstartphase tooltip
+msgid "Starting Phase"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pstereo tooltip
+#. /sysefx[0,3]/Distorsion/Pstereo tooltip
+#. /insefx[0,7]/Distorsion/Pstereo tooltip
+msgid "Stereo"
+msgstr "Stereo"
+
+#. /part[0,15]/kit[0,15]/subpars/Pstereo tooltip
+msgid "Stereo Enable"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/PStereo tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/PStereo tooltip
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PStereo tooltip
+#. /sysefx[0,3]/Alienwah/PStereo tooltip
+#. /sysefx[0,3]/Chorus/PStereo tooltip
+#. /sysefx[0,3]/DynamicFilter/PStereo tooltip
+#. /insefx[0,7]/Alienwah/PStereo tooltip
+#. /insefx[0,7]/Chorus/PStereo tooltip
+#. /insefx[0,7]/DynamicFilter/PStereo tooltip
+msgid "Stereo Mode"
+msgstr "Tryb stereo"
+
+#. /part[0,15]/kit[0,15]/padpars/PStereo tooltip
+msgid "Stereo/Mono Mode"
+msgstr "Tryb stereo/mono"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp tooltip
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp tooltip
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp tooltip
+msgid "Strength of formant"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Penvstretch
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Penvstretch
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Penvstretch tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Penvstretch tooltip
+msgid "Stretch with respect to frequency"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_stereo_spread tooltip
+msgid "Subvoice L/R Separation"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase tooltip
+msgid "Subvoice Phases"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_frequency_spread tooltip
+msgid "Subvoice detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_vibratto tooltip
+msgid "Subvoice vibratto"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_vibratto_speed tooltip
+msgid "Subvoice vibratto speed"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode option
+msgid "Sum"
+msgstr "Suma"
+
+#. /part[0,15]/ctl/sustain.receive tooltip
+#. /ctl/sustain.receive tooltip
+msgid "Sustain MIDI Receive"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PS_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PS_val tooltip
+msgid "Sustain Value"
+msgstr ""
+
+#. /config/cfg.SwapStereo tooltip
+msgid "Swap Left And Right Channels"
+msgstr "Zamień lewy i prawy kanał"
+
+#. /part[0,15]/kit[0,15]/padpars/PVolume tooltip
+msgid "Synth Volume"
+msgstr "Głośność syntezatora"
+
+#. /part[0,15]/polyType tooltip
+msgid ""
+"Synthesis polyphony type\n"
+"Polyphonic - Each note is played independently\n"
+"Monophonic - A single note is played at a time with envelopes resetting between notes\n"
+"Legato     - A single note is played at a time without envelopes resetting between notes\n"
+msgstr "\n"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/q tooltip
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/q tooltip
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/q tooltip
+msgid "The formant's quality factor, also known as resonance bandwidth or Q for short"
+msgstr ""
+
+#. /microtonal/PAnote tooltip
+msgid "The note for 'A'"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Poctavesfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Poctavesfreq tooltip
+msgid "The number of octaves..."
+msgstr "Liczba oktaw…"
+
+#. /part[0,15]/ctl/portamento.pitchthresh tooltip
+#. /ctl/portamento.pitchthresh tooltip
+msgid "Threshold for portamento"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype option
+msgid "ThrsD"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype option
+msgid "ThrsU"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Tunnel"
+msgstr "Tunel"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Ptype tooltip
+#. /sysefx[0,3]/Reverb/Ptype tooltip
+#. /insefx[0,7]/Reverb/Ptype tooltip
+msgid "Type"
+msgstr "Rodzaj"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type tooltip
+msgid "Type of Sound"
+msgstr "Rodzaj dźwięku"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type tooltip
+msgid "Type of amplitude multipler"
+msgstr "Rodzaj mnożnika amplitudy"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype tooltip
+msgid "Type of magnitude for harmonics"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.pitchthreshtype tooltip
+#. /ctl/portamento.pitchthreshtype tooltip
+msgid "Type of threshold"
+msgstr "Rodzaj progu"
+
+#. /microtonal/Pscaleshift tooltip
+msgid "UNDOCUMENTED"
+msgstr "NIEUDOKUMENTOWANE"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+msgid "Undistorted"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.onehalf option
+msgid "Upper Half"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Upper Limiter"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/Panalog tooltip
+#. /sysefx[0,3]/Phaser/Panalog tooltip
+#. /insefx[0,7]/Phaser/Panalog tooltip
+msgid "Use analog phaser"
+msgstr ""
+
+#. /part[0,15]/Pname tooltip
+msgid "User specified label"
+msgstr "Podpis określony przez użytkownika"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandpower tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandpower tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandpower tooltip
+msgid "Variance of harmonic randomness"
+msgstr "Zróżnicowanie harmonicznej losowości"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpVelocityScaleFunction tooltip
+msgid "Velocity Sensing"
+msgstr ""
+
+#. /part[0,15]/Pveloffs tooltip
+msgid "Velocity offset"
+msgstr ""
+
+#. /part[0,15]/Pvelsns tooltip
+msgid "Velocity sensing"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "VeryLong1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "VeryLong2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Enabled tooltip
+msgid "Voice Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDelay tooltip
+msgid "Voice Startup Delay"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/POffsetHz tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/POffsetHz tooltip
+#. /part[0,15]/kit[0,15]/subpars/POffsetHz tooltip
+msgid "Voice constant offset"
+msgstr ""
+
+#. /part[0,15]/Pvolume shortname
+msgid "Vol"
+msgstr "Głoś."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PVolume tooltip
+#. /part[0,15]/kit[0,15]/subpars/PVolume tooltip
+msgid "Volume"
+msgstr "Głośność"
+
+#. /part[0,15]/ctl/volume.receive tooltip
+#. /ctl/volume.receive tooltip
+msgid "Volume MIDI Receive"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PAmpVelocityScaleFunction tooltip
+msgid "Volume Velocity Control"
+msgstr "Kontrola prędkości głośności"
+
+#. /part[0,15]/ctl/portamento.proportional tooltip
+#. /ctl/portamento.proportional tooltip
+msgid "Whether the portamento time is proportionalto the size of the interval between two notes."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type option
+msgid "White"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.width tooltip
+msgid "Width of base harmonic"
+msgstr "Szerokość podstawowej harmonicznej"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Zigzag"
+msgstr "Zygzak"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PA_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PA_dt shortname
+msgid "a.dt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Fadein_adjustment shortname
+msgid "a.pop."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Prandomness shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Prandomness shortname
+msgid "a.r."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PA_val shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PA_val shortname
+msgid "a.val"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "abssine"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "absstretchsine"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics
+#. shortname
+msgid "adapt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicspower shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshaping shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicspower
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshaping shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicspower
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshaping shortname
+msgid "amount"
+msgstr "ilość"
+
+#. /part[0,15]/partefx[0,2]/Pvolume tooltip
+#. /sysefx[0,3]/Pvolume tooltip
+#. /insefx[0,7]/Pvolume tooltip
+msgid "amount of effect"
+msgstr "ilość efektów"
+
+#. /part[0,15]/partefx[0,2]/Pvolume shortname
+#. /sysefx[0,3]/Pvolume shortname
+#. /insefx[0,7]/Pvolume shortname
+msgid "amt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcategory option
+#. /part[0,15]/partefx[0,2]/filterpars/Pcategory option
+#. /part[0,15]/partefx[0,2]/Phaser/Panalog shortname
+#. /sysefx[0,3]/filterpars/Pcategory option
+#. /sysefx[0,3]/Phaser/Panalog shortname
+#. /insefx[0,7]/filterpars/Pcategory option
+#. /insefx[0,7]/Phaser/Panalog shortname
+msgid "analog"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.autoscale shortname
+msgid "auto"
+msgstr "auto"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf option
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf option
+#. /sysefx[0,3]/filterpars/type-svf option
+#. /insefx[0,7]/filterpars/type-svf option
+msgid "band"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pmode option
+#. /part[0,15]/kit[0,15]/padpars/Php.width shortname
+#. /part[0,15]/kit[0,15]/padpars/Pbandwidth shortname
+#. /part[0,15]/kit[0,15]/subpars/Pbandwidth shortname
+msgid "bandwidth"
+msgstr "przepustowość"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc shortname
+msgid "base"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote shortname
+msgid "basenote"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PBendAdjust shortname
+#. /part[0,15]/kit[0,15]/subpars/PBendAdjust shortname
+msgid "bend"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "bp1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "bp2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "bs1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "bs2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Pbandwidth shortname
+#. /sysefx[0,3]/Reverb/Pbandwidth shortname
+#. /insefx[0,7]/Reverb/Pbandwidth shortname
+msgid "bw"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale shortname
+msgid "bw scale"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PBandwidth shortname
+msgid "bw."
+msgstr ""
+
+#. /part[0,15]/ctl/bandwidth.depth shortname
+#. /ctl/bandwidth.depth shortname
+msgid "bw.d"
+msgstr ""
+
+#. /part[0,15]/ctl/bandwidth.exponential shortname
+#. /ctl/bandwidth.exponential shortname
+msgid "bw.exp"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pfilterbypass shortname
+msgid "bypass"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pcontinous shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pcontinous shortname
+msgid "c"
+msgstr "c"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicsbasefreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicsbasefreq
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicsbasefreq
+#. shortname
+msgid "c. freq"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Pcenterfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Pcenterfreq shortname
+msgid "c.freq"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PCoarseDetune shortname
+msgid "cdetune"
+msgstr ""
+
+#. /microtonal/Pinvertupdowncenter shortname
+msgid "center"
+msgstr ""
+
+#. /microtonal/Pinvertupdowncenter tooltip
+msgid "center of the inversion"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch1"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch10"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch11"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch12"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch13"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch14"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch15"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch16"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch2"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch3"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch4"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch5"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch6"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch7"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch8"
+msgstr ""
+
+#. /part[0,15]/Prcvchn option
+msgid "ch9"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "chebyshev"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "chirp"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "circle"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowelclearness shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowelclearness
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowelclearness
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowelclearness shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowelclearness shortname
+#. /sysefx[0,3]/filterpars/Pvowelclearness shortname
+#. /insefx[0,7]/filterpars/Pvowelclearness shortname
+msgid "clarity"
+msgstr "czystość"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcategory shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcategory shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcategory shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcategory shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pcategory shortname
+#. /sysefx[0,3]/filterpars/Pcategory shortname
+#. /insefx[0,7]/filterpars/Pcategory shortname
+msgid "class"
+msgstr "klasa"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.freqmult shortname
+msgid "clone"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PCoarseDetune shortname
+#. /part[0,15]/kit[0,15]/padpars/coarsedetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PCoarseDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMCoarseDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/coarsedetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMcoarsedetune shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PCoarseDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/coarsedetune shortname
+#. /part[0,15]/kit[0,15]/subpars/coarsedetune shortname
+msgid "coarse"
+msgstr ""
+
+#. /microtonal/Pcomment shortname
+msgid "comment"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pmode option
+msgid "continious"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "cos"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/Plrcross shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Plrcross shortname
+#. /sysefx[0,3]/Echo/Plrcross shortname
+#. /sysefx[0,3]/Phaser/Plrcross shortname
+#. /insefx[0,7]/Echo/Plrcross shortname
+#. /insefx[0,7]/Phaser/Plrcross shortname
+msgid "cross"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pfreq shortname
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcenterfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcenterfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcenterfreq shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pfreq shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcenterfreq shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pcenterfreq shortname
+#. /sysefx[0,3]/filterpars/Pfreq shortname
+#. /sysefx[0,3]/filterpars/Pcenterfreq shortname
+#. /insefx[0,7]/filterpars/Pfreq shortname
+#. /insefx[0,7]/filterpars/Pcenterfreq shortname
+msgid "cutoff"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PD_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PD_dt shortname
+msgid "d.dt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PD_val shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PD_val shortname
+msgid "d.val"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype option
+msgid "dB scale (-100)"
+msgstr "skala dB (-100)"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype option
+msgid "dB scale (-40)"
+msgstr "skala dB (-40)"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype option
+msgid "dB scale (-60)"
+msgstr "skala dB (-60)"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype option
+msgid "dB scale (-80)"
+msgstr "skala dB (-80)"
+
+#. /part[0,15]/partefx[0,2]/Echo/Phidamp shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Plohidamp shortname
+#. /sysefx[0,3]/Echo/Phidamp shortname
+#. /sysefx[0,3]/Reverb/Plohidamp shortname
+#. /insefx[0,7]/Echo/Phidamp shortname
+#. /insefx[0,7]/Reverb/Plohidamp shortname
+msgid "damp"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVolumeDamp shortname
+msgid "damp."
+msgstr "tłum."
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDelay shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pdelay shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pdelay shortname
+#. /part[0,15]/partefx[0,2]/Alienwah/Pdelay shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Pdelay shortname
+#. /part[0,15]/partefx[0,2]/Echo/Pdelay shortname
+#. /sysefx[0,3]/Alienwah/Pdelay shortname
+#. /sysefx[0,3]/Chorus/Pdelay shortname
+#. /sysefx[0,3]/Echo/Pdelay shortname
+#. /insefx[0,7]/Alienwah/Pdelay shortname
+#. /insefx[0,7]/Chorus/Pdelay shortname
+#. /insefx[0,7]/Echo/Pdelay shortname
+msgid "delay"
+msgstr "odstęp"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pintensity shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pintensity shortname
+#. /part[0,15]/partefx[0,2]/Alienwah/Pdepth shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Pdepth shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pdepth shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Pdepth shortname
+#. /part[0,15]/ctl/portamento.propDepth shortname
+#. /sysefx[0,3]/Alienwah/Pdepth shortname
+#. /sysefx[0,3]/Chorus/Pdepth shortname
+#. /sysefx[0,3]/DynamicFilter/Pdepth shortname
+#. /sysefx[0,3]/Phaser/Pdepth shortname
+#. /insefx[0,7]/Alienwah/Pdepth shortname
+#. /insefx[0,7]/Chorus/Pdepth shortname
+#. /insefx[0,7]/DynamicFilter/Pdepth shortname
+#. /insefx[0,7]/Phaser/Pdepth shortname
+#. /ctl/portamento.propDepth shortname
+msgid "depth"
+msgstr "głębia"
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType shortname
+msgid "det. scl."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_frequency_spread shortname
+#. /part[0,15]/kit[0,15]/subpars/PDetune shortname
+msgid "detune"
+msgstr "odstrojenie"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "diode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pmode option
+msgid "discrete"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction
+#. shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Pdistortion shortname
+#. /sysefx[0,3]/Phaser/Pdistortion shortname
+#. /insefx[0,7]/Phaser/Pdistortion shortname
+msgid "distort"
+msgstr "zniekszt."
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandtype shortname
+#. /part[0,15]/kit[0,15]/padpars/Pmode shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandtype shortname
+msgid "distribution"
+msgstr "dystrybucja"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+msgid "down"
+msgstr "w dół"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pdrive shortname
+#. /sysefx[0,3]/Distorsion/Pdrive shortname
+#. /insefx[0,7]/Distorsion/Pdrive shortname
+msgid "drive"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PfixedfreqET shortname
+msgid "e.t."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Penabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Enabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Presonance shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFreqEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFreqLfoEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpLfoEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterLfoEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMFreqEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMAmpEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Penabled shortname
+#. /part[0,15]/kit[0,15]/subpars/PFreqEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/subpars/PBandWidthEnvelopeEnabled shortname
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterEnabled shortname
+#. /part[0,15]/Penabled shortname
+#. /microtonal/Penabled shortname
+msgid "enable"
+msgstr "aktywuj"
+
+#. /part[0,15]/ctl/expression.receive shortname
+#. /ctl/expression.receive shortname
+msgid "exp.rcv"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+msgid "exp1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+msgid "exp2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pextoscil shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PextFMoscil shortname
+msgid "ext."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PfixedfreqET shortname
+msgid "f.ET"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq
+#. shortname
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq shortname
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq shortname
+msgid "f.freq"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/q
+#. shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/q shortname
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/q shortname
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/q shortname
+msgid "f.q"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pfreqrand shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pfreqrand shortname
+msgid "f.r."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/amp
+#. shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp
+#. shortname
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp shortname
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/amp shortname
+msgid "f.str"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pfreqtrack shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pfreqtrack shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pfreqtrack shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pfreqtrack shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pfreqtrack shortname
+#. /sysefx[0,3]/filterpars/Pfreqtrack shortname
+#. /insefx[0,7]/filterpars/Pfreqtrack shortname
+msgid "f.track"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfeedback shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Pfeedback shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Pfb shortname
+#. /sysefx[0,3]/Alienwah/Pfeedback shortname
+#. /sysefx[0,3]/Chorus/Pfeedback shortname
+#. /sysefx[0,3]/Phaser/Pfb shortname
+#. /insefx[0,7]/Alienwah/Pfeedback shortname
+#. /insefx[0,7]/Chorus/Pfeedback shortname
+#. /insefx[0,7]/Phaser/Pfb shortname
+msgid "fb"
+msgstr ""
+
+#. /part[0,15]/ctl/filtercutoff.depth shortname
+#. /ctl/filtercutoff.depth shortname
+msgid "fc.d"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/Pfb shortname
+#. /sysefx[0,3]/Echo/Pfb shortname
+#. /insefx[0,7]/Echo/Pfb shortname
+msgid "feedback"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype shortname
+msgid "filter"
+msgstr "filtr"
+
+#. /part[0,15]/kit[0,15]/padpars/PDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetune shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetune shortname
+#. /microtonal/Pglobalfinedetune shortname
+msgid "fine"
+msgstr ""
+
+#. /microtonal/Pfirstkey shortname
+msgid "first key"
+msgstr "pierwsza nuta"
+
+#. /part[0,15]/kit[0,15]/padpars/Pfixedfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pfixedfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMFixedFreq shortname
+msgid "fixed"
+msgstr "stały"
+
+#. /part[0,15]/kit[0,15]/subpars/PfixedfreqET shortname
+msgid "fixed ET"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Pfixedfreq shortname
+msgid "fixed freq"
+msgstr "stała częst."
+
+#. /part[0,15]/partefx[0,2]/Chorus/Pflangemode shortname
+#. /sysefx[0,3]/Chorus/Pflangemode shortname
+#. /insefx[0,7]/Chorus/Pflangemode shortname
+msgid "flange"
+msgstr ""
+
+#. /part[0,15]/ctl/fmamp.receive shortname
+#. /ctl/fmamp.receive shortname
+msgid "fma.rcv"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par3 shortname
+msgid "force h."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par3 shortname
+msgid "forceH"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcategory option
+#. /part[0,15]/partefx[0,2]/filterpars/Pcategory option
+#. /sysefx[0,3]/filterpars/Pcategory option
+#. /insefx[0,7]/filterpars/Pcategory option
+msgid "formant"
+msgstr "formant"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pnumformants shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pnumformants
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pnumformants shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pnumformants shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pnumformants shortname
+#. /sysefx[0,3]/filterpars/Pnumformants shortname
+#. /insefx[0,7]/filterpars/Pnumformants shortname
+msgid "formants"
+msgstr "formanty"
+
+#. /part[0,15]/ctl/filterq.depth shortname
+#. /ctl/filterq.depth shortname
+msgid "fq.d"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Pforcedrelease
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Pforcedrelease shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Pforcedrelease shortname
+msgid "frcr"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/padpars/Php.modulator.freq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pfreq shortname
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Pfreq shortname
+#. /sysefx[0,3]/Alienwah/Pfreq shortname
+#. /sysefx[0,3]/Chorus/Pfreq shortname
+#. /sysefx[0,3]/DynamicFilter/Pfreq shortname
+#. /sysefx[0,3]/EQ/filter[0,7]/Pfreq shortname
+#. /sysefx[0,3]/Phaser/lfo.Pfreq shortname
+#. /insefx[0,7]/Alienwah/Pfreq shortname
+#. /insefx[0,7]/Chorus/Pfreq shortname
+#. /insefx[0,7]/DynamicFilter/Pfreq shortname
+#. /insefx[0,7]/EQ/filter[0,7]/Pfreq shortname
+#. /insefx[0,7]/Phaser/lfo.Pfreq shortname
+msgid "freq"
+msgstr "częst."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+msgid "frequency"
+msgstr "częstotliwość"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pfreq tooltip
+msgid ""
+"frequency of LFO\n"
+"lfo frequency = (2^(10*Pfreq)-1)/12 * stretch\n"
+"true frequency is [0,85.33] Hz"
+msgstr ""
+"częstotliwość LFO\n"
+"częstotliwość lfo = (2^(10*Pfreq)-1)/12 * stretch\n"
+"rzeczywista częstotliwość wynosi [0,85.33] Hz"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pgain shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pgain shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pgain shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pgain shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pgain shortname
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pgain shortname
+#. /sysefx[0,3]/filterpars/Pgain shortname
+#. /sysefx[0,3]/EQ/filter[0,7]/Pgain shortname
+#. /insefx[0,7]/filterpars/Pgain shortname
+#. /insefx[0,7]/EQ/filter[0,7]/Pgain shortname
+msgid "gain"
+msgstr "wzmocnienie"
+
+#. /Psysefxvol[0,3]/part[0,15] tooltip
+msgid "gain on part to sysefx routing"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "gauss"
+msgstr "gauss"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "h.shelf"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf option
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf option
+#. /sysefx[0,3]/filterpars/type-svf option
+#. /insefx[0,7]/filterpars/type-svf option
+msgid "high"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/PmaxdB tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/PmaxdB tooltip
+msgid "how many dB the signal may be amplified"
+msgstr "o ile dB może zostać wzmocniony sygnał"
+
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsmooth tooltip
+#. /sysefx[0,3]/DynamicFilter/Pampsmooth tooltip
+#. /insefx[0,7]/DynamicFilter/Pampsmooth tooltip
+msgid "how smooth the input amplitude changes the filter"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsns tooltip
+#. /sysefx[0,3]/DynamicFilter/Pampsns tooltip
+#. /insefx[0,7]/DynamicFilter/Pampsns tooltip
+msgid "how the filter varies according to the input amplitude"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "hp1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "hp1b"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "hp2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Phpf shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Phpf shortname
+#. /sysefx[0,3]/Distorsion/Phpf shortname
+#. /sysefx[0,3]/Reverb/Phpf shortname
+#. /insefx[0,7]/Distorsion/Phpf shortname
+#. /insefx[0,7]/Reverb/Phpf shortname
+msgid "hpf"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/Phyper shortname
+#. /sysefx[0,3]/Phaser/Phyper shortname
+#. /insefx[0,7]/Phaser/Phyper shortname
+msgid "hyp."
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Pidelayfb shortname
+#. /sysefx[0,3]/Reverb/Pidelayfb shortname
+#. /insefx[0,7]/Reverb/Pidelayfb shortname
+msgid "i.fb"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Pidelay shortname
+#. /sysefx[0,3]/Reverb/Pidelay shortname
+#. /insefx[0,7]/Reverb/Pidelay shortname
+msgid "i.time"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Pstart shortname
+msgid "initial"
+msgstr "domyślne"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PVolumeminus shortname
+#. /microtonal/Pinvertupdown shortname
+msgid "inv."
+msgstr ""
+
+#. /microtonal/Pinvertupdown tooltip
+msgid "key mapping inverse"
+msgstr "odwrócenie mapowania dźwięku"
+
+#. /Pkeyshift shortname
+msgid "key shift"
+msgstr "przesunięcie nuty"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "l.shelf"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Plrcross shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Plrcross shortname
+#. /part[0,15]/partefx[0,2]/Distorsion/Plrcross shortname
+#. /sysefx[0,3]/Alienwah/Plrcross shortname
+#. /sysefx[0,3]/Chorus/Plrcross shortname
+#. /sysefx[0,3]/Distorsion/Plrcross shortname
+#. /insefx[0,7]/Alienwah/Plrcross shortname
+#. /insefx[0,7]/Chorus/Plrcross shortname
+#. /insefx[0,7]/Distorsion/Plrcross shortname
+msgid "l/r"
+msgstr "l/r"
+
+#. /microtonal/Plastkey shortname
+msgid "last key"
+msgstr "ostatnia nuta"
+
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.PLFOtype tooltip
+#. /sysefx[0,3]/Phaser/lfo.PLFOtype tooltip
+#. /insefx[0,7]/Phaser/lfo.PLFOtype tooltip
+msgid "lfo shape"
+msgstr "kszt. lfo"
+
+#. /part[0,15]/Pkeylimit shortname
+msgid "limit"
+msgstr "limit"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Plinearenvelope
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Plinearenvelope shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Plinearenvelope shortname
+msgid "lin/log"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype option
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype option
+msgid "linear"
+msgstr "liniowa"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf option
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf option
+#. /sysefx[0,3]/filterpars/type-svf option
+#. /insefx[0,7]/filterpars/type-svf option
+msgid "low"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "low_shelf"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "lp"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "lp2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Plpf shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Plpf shortname
+#. /sysefx[0,3]/Distorsion/Plpf shortname
+#. /sysefx[0,3]/Reverb/Plpf shortname
+#. /insefx[0,7]/Distorsion/Plpf shortname
+#. /insefx[0,7]/Reverb/Plpf shortname
+msgid "lpf"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/Plrdelay shortname
+#. /sysefx[0,3]/Echo/Plrdelay shortname
+#. /insefx[0,7]/Echo/Plrdelay shortname
+msgid "lr delay"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype shortname
+msgid "mag. type"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/PmaxdB shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/PmaxdB shortname
+#. /part[0,15]/Pmaxkey shortname
+msgid "max"
+msgstr "maks"
+
+#. /part[0,15]/ctl/modwheel.depth shortname
+#. /ctl/modwheel.depth shortname
+msgid "mdw.d"
+msgstr ""
+
+#. /part[0,15]/ctl/modwheel.exponential shortname
+#. /ctl/modwheel.exponential shortname
+msgid "mdw.exp"
+msgstr ""
+
+#. /microtonal/Pmiddlenote shortname
+msgid "middle"
+msgstr ""
+
+#. /part[0,15]/Pminkey shortname
+msgid "min"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation
+#. shortname
+msgid "mod"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled shortname
+msgid "mode"
+msgstr "tryb"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar1 tooltip
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar2 tooltip
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar3 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar1 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar2 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar3 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar1 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar2 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar3 tooltip
+msgid "modulation parameter"
+msgstr "parametr modulacji"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+msgid "morph"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type shortname
+msgid "mult"
+msgstr ""
+
+#. /microtonal/Pname shortname
+msgid "name"
+msgstr "nazwa"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pnegate shortname
+#. /sysefx[0,3]/Distorsion/Pnegate shortname
+#. /insefx[0,7]/Distorsion/Pnegate shortname
+msgid "neg"
+msgstr "odwr."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+msgid "none"
+msgstr "brak"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/filterpars/type-svf option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/filterpars/type-svf option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "notch"
+msgstr "wbity"
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Poctavesfreq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Poctavesfreq shortname
+msgid "oct"
+msgstr "okt."
+
+#. /part[0,15]/kit[0,15]/padpars/octave shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/octave shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMoctave shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/octave shortname
+#. /part[0,15]/kit[0,15]/subpars/octave shortname
+msgid "octave"
+msgstr "oktawa"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Poctavesfreq shortname
+#. /part[0,15]/kit[0,15]/padpars/Pquality.oct shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Poctavesfreq
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Poctavesfreq shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Poctavesfreq shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Poctavesfreq shortname
+#. /sysefx[0,3]/filterpars/Poctavesfreq shortname
+#. /insefx[0,7]/filterpars/Poctavesfreq shortname
+msgid "octaves"
+msgstr "oktawy"
+
+#. /part[0,15]/partefx[0,2]/Phaser/Poffset shortname
+#. /sysefx[0,3]/Phaser/Poffset shortname
+#. /insefx[0,7]/Phaser/Poffset shortname
+msgid "off"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/POffsetHz shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/POffsetHz shortname
+#. /part[0,15]/Pveloffs shortname
+msgid "offset"
+msgstr "przesunięcie"
+
+#. /part[0,15]/kit[0,15]/subpars/Pstart option
+msgid "ones"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Plevel shortname
+#. /sysefx[0,3]/Distorsion/Plevel shortname
+#. /insefx[0,7]/Distorsion/Plevel shortname
+msgid "output"
+msgstr "wyjście"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pprefiltering shortname
+#. /sysefx[0,3]/Distorsion/Pprefiltering shortname
+#. /insefx[0,7]/Distorsion/Pprefiltering shortname
+msgid "p.filt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Pprotectthefundamental shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Pprotectthefundamental
+#. shortname
+msgid "p.fund."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar1 shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterpar1 shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psapar shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar1 shortname
+#. /part[0,15]/kit[0,15]/padpars/Php.modulator.par1 shortname
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.par1 shortname
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par1 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar1
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterpar1 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psapar shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar1
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar1
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterpar1 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psapar shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar1 shortname
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par1 shortname
+msgid "p1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar2 shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterpar2 shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar2 shortname
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.par2 shortname
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par2 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar2
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterpar2 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar2
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar2
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterpar2 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar2 shortname
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par2 shortname
+msgid "p2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar3 shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulationpar3 shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar3
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulationpar3
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar3
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulationpar3 shortname
+msgid "p3"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPanning shortname
+#. /part[0,15]/partefx[0,2]/Ppanning shortname
+#. /part[0,15]/Ppanning shortname
+#. /sysefx[0,3]/Ppanning shortname
+#. /insefx[0,7]/Ppanning shortname
+msgid "pan"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PPanning shortname
+msgid "pan."
+msgstr ""
+
+#. /part[0,15]/ctl/panning.depth shortname
+#. /ctl/panning.depth shortname
+msgid "pan.d"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PPanning shortname
+#. /part[0,15]/kit[0,15]/subpars/PPanning shortname
+#. /part[0,15]/partefx[0,2]/Ppanning tooltip
+#. /sysefx[0,3]/Ppanning tooltip
+#. /insefx[0,7]/Ppanning tooltip
+msgid "panning"
+msgstr "panoramowanie"
+
+#. /part[0,15]/ctl/pitchwheel.bendrange shortname
+#. /ctl/pitchwheel.bendrange shortname
+msgid "pch.d"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "peak"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_phase_randomness shortname
+msgid "ph.rnd."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Poscilphase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMoscilphase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+#. /part[0,15]/partefx[0,2]/Alienwah/Pphase shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Pphase shortname
+#. /sysefx[0,3]/Alienwah/Pphase shortname
+#. /sysefx[0,3]/Phaser/Pphase shortname
+#. /insefx[0,7]/Alienwah/Pphase shortname
+#. /insefx[0,7]/Phaser/Pphase shortname
+msgid "phase"
+msgstr "faza"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Prand shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Prand shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Prand shortname
+msgid "phase rnd"
+msgstr "los. fazy"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicspar shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicspar
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicspar
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "power"
+msgstr "moc"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterbeforews shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pharmonicshiftfirst shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterbeforews
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pharmonicshiftfirst
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterbeforews shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pharmonicshiftfirst
+#. shortname
+msgid "pre/post"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.proportional shortname
+#. /ctl/portamento.proportional shortname
+msgid "propt."
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.receive shortname
+#. /ctl/portamento.receive shortname
+msgid "prt.rcv"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+msgid "pulse"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "pulsesine"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pq shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pq shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pq shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pq shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pq shortname
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pq shortname
+#. /sysefx[0,3]/filterpars/Pq shortname
+#. /sysefx[0,3]/EQ/filter[0,7]/Pq shortname
+#. /insefx[0,7]/filterpars/Pq shortname
+#. /insefx[0,7]/EQ/filter[0,7]/Pq shortname
+msgid "q"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize shortname
+msgid "quality"
+msgstr "jakość"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PR_dt shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PR_dt shortname
+msgid "r.dt"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PR_val shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PR_val shortname
+msgid "r.val"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfreqrnd shortname
+#. /part[0,15]/partefx[0,2]/Chorus/Pfreqrnd shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pfreqrnd shortname
+#. /sysefx[0,3]/Alienwah/Pfreqrnd shortname
+#. /sysefx[0,3]/Chorus/Pfreqrnd shortname
+#. /sysefx[0,3]/DynamicFilter/Pfreqrnd shortname
+#. /insefx[0,7]/Alienwah/Pfreqrnd shortname
+#. /insefx[0,7]/Chorus/Pfreqrnd shortname
+#. /insefx[0,7]/DynamicFilter/Pfreqrnd shortname
+msgid "rand"
+msgstr "los."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase option
+#. /part[0,15]/kit[0,15]/subpars/Pstart option
+msgid "random"
+msgstr "losowo"
+
+#. /part[0,15]/ctl/resonancebandwidth.depth shortname
+#. /ctl/resonancebandwidth.depth shortname
+msgid "rbw.d"
+msgstr ""
+
+#. /microtonal/PAfreq shortname
+msgid "ref freq"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Penabled tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Penabled tooltip
+msgid "resonance enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencereversed shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencereversed
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencereversed
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencereversed shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencereversed shortname
+#. /sysefx[0,3]/filterpars/Psequencereversed shortname
+#. /insefx[0,7]/filterpars/Psequencereversed shortname
+msgid "reverse"
+msgstr ""
+
+#. /part[0,15]/ctl/resonancecenter.depth shortname
+#. /ctl/resonancecenter.depth shortname
+msgid "rfc.d"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled option
+msgid "ring"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Prandomness shortname
+#. /sysefx[0,3]/Phaser/lfo.Prandomness shortname
+#. /insefx[0,7]/Phaser/lfo.Prandomness shortname
+msgid "rnd."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "s"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PS_val shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PS_val shortname
+msgid "s.val"
+msgstr ""
+
+#. /config/cfg.SampleRate tooltip
+msgid "samples of audio per second"
+msgstr "próbki dźwięku na sekundę"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "saw"
+msgstr "piła"
+
+#. /part[0,15]/kit[0,15]/padpars/PFilterVelocityScale shortname
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Phmagtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Phmagtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Phmagtype shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PAmpVelocityScaleFunction shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PFilterVelocityScale shortname
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterVelocityScale shortname
+#. /part[0,15]/ctl/portamento.propRate shortname
+#. /ctl/portamento.propRate shortname
+msgid "scale"
+msgstr "skala"
+
+#. /part[0,15]/kit[0,15]/padpars/PAmpVelocityScaleFunction shortname
+#. /part[0,15]/kit[0,15]/padpars/PPunchVelocitySensing shortname
+#. /part[0,15]/kit[0,15]/padpars/PFilterVelocityScaleFunction shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpVelocityScaleFunction
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVelocityScaleFunction
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PFilterVelocityScaleFunction
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/PAmpVelocityScaleFunction shortname
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterVelocityScaleFunction shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsns shortname
+#. /part[0,15]/Pvelsns shortname
+#. /sysefx[0,3]/DynamicFilter/Pampsns shortname
+#. /insefx[0,7]/DynamicFilter/Pampsns shortname
+msgid "sense"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencesize shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencesize
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencesize shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencesize shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencesize shortname
+#. /sysefx[0,3]/filterpars/Psequencesize shortname
+#. /insefx[0,7]/filterpars/Psequencesize shortname
+msgid "seq.size"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencestretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencestretch
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencestretch
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencestretch shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencestretch shortname
+#. /sysefx[0,3]/filterpars/Psequencestretch shortname
+#. /insefx[0,7]/filterpars/Psequencestretch shortname
+msgid "seq.str"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncpar shortname
+#. /part[0,15]/kit[0,15]/padpars/Php.base.type shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncpar shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncpar shortname
+#. /part[0,15]/partefx[0,2]/Alienwah/PLFOtype shortname
+#. /part[0,15]/partefx[0,2]/Chorus/PLFOtype shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PLFOtype shortname
+#. /sysefx[0,3]/Alienwah/PLFOtype shortname
+#. /sysefx[0,3]/Chorus/PLFOtype shortname
+#. /sysefx[0,3]/DynamicFilter/PLFOtype shortname
+#. /insefx[0,7]/Alienwah/PLFOtype shortname
+#. /insefx[0,7]/Chorus/PLFOtype shortname
+#. /insefx[0,7]/DynamicFilter/PLFOtype shortname
+msgid "shape"
+msgstr "kształt"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pharmonicshift shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pharmonicshift shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pharmonicshift shortname
+#. /part[0,15]/Pkeyshift shortname
+#. /microtonal/Pscaleshift shortname
+msgid "shift"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.onehalf shortname
+msgid "side"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "sigmoid"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PLFOtype option
+#. /sysefx[0,3]/DynamicFilter/PLFOtype option
+#. /insefx[0,7]/DynamicFilter/PLFOtype option
+msgid "sin"
+msgstr "sin"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+#. /part[0,15]/partefx[0,2]/Alienwah/PLFOtype option
+#. /part[0,15]/partefx[0,2]/Chorus/PLFOtype option
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.PLFOtype option
+#. /sysefx[0,3]/Alienwah/PLFOtype option
+#. /sysefx[0,3]/Chorus/PLFOtype option
+#. /sysefx[0,3]/Phaser/lfo.PLFOtype option
+#. /insefx[0,7]/Alienwah/PLFOtype option
+#. /insefx[0,7]/Chorus/PLFOtype option
+#. /insefx[0,7]/Phaser/lfo.PLFOtype option
+msgid "sine"
+msgstr "sinus"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_size shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Proomsize shortname
+#. /sysefx[0,3]/Reverb/Proomsize shortname
+#. /insefx[0,7]/Reverb/Proomsize shortname
+msgid "size"
+msgstr "rozmiar"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pformantslowness shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pformantslowness
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pformantslowness
+#. shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pformantslowness shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pformantslowness shortname
+#. /sysefx[0,3]/filterpars/Pformantslowness shortname
+#. /insefx[0,7]/filterpars/Pformantslowness shortname
+msgid "slew"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsmooth shortname
+#. /sysefx[0,3]/DynamicFilter/Pampsmooth shortname
+#. /insefx[0,7]/DynamicFilter/Pampsmooth shortname
+msgid "smooth"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct shortname
+msgid "smp/oct"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pampsnsinv shortname
+#. /sysefx[0,3]/DynamicFilter/Pampsnsinv shortname
+#. /insefx[0,7]/DynamicFilter/Pampsnsinv shortname
+msgid "sns.inv"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype shortname
+msgid "spec. adj."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_vibratto_speed shortname
+msgid "speed"
+msgstr "prędkość"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "spike"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_stereo_spread shortname
+msgid "spread"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type shortname
+msgid "spread type"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "sqr"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+msgid "square"
+msgstr "kwadratowy"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcategory option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcategory option
+#. /part[0,15]/partefx[0,2]/filterpars/Pcategory option
+#. /sysefx[0,3]/filterpars/Pcategory option
+#. /insefx[0,7]/filterpars/Pcategory option
+msgid "st.var."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pstages shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pstages shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pstages shortname
+#. /part[0,15]/kit[0,15]/subpars/Pnumstages shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pstages shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Pstages shortname
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pstages shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Pstages shortname
+#. /sysefx[0,3]/filterpars/Pstages shortname
+#. /sysefx[0,3]/EQ/filter[0,7]/Pstages shortname
+#. /sysefx[0,3]/Phaser/Pstages shortname
+#. /insefx[0,7]/filterpars/Pstages shortname
+#. /insefx[0,7]/EQ/filter[0,7]/Pstages shortname
+#. /insefx[0,7]/Phaser/Pstages shortname
+msgid "stages"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pstartphase shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pstartphase shortname
+msgid "start"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PStereo shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PStereo shortname
+#. /part[0,15]/kit[0,15]/subpars/Pstereo shortname
+#. /part[0,15]/partefx[0,2]/Alienwah/PStereo shortname
+#. /part[0,15]/partefx[0,2]/Chorus/PStereo shortname
+#. /part[0,15]/partefx[0,2]/Distorsion/Pstereo shortname
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PStereo shortname
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Pstereo shortname
+#. /sysefx[0,3]/Alienwah/PStereo shortname
+#. /sysefx[0,3]/Chorus/PStereo shortname
+#. /sysefx[0,3]/Distorsion/Pstereo shortname
+#. /sysefx[0,3]/DynamicFilter/PStereo shortname
+#. /sysefx[0,3]/Phaser/lfo.Pstereo shortname
+#. /insefx[0,7]/Alienwah/PStereo shortname
+#. /insefx[0,7]/Chorus/PStereo shortname
+#. /insefx[0,7]/Distorsion/Pstereo shortname
+#. /insefx[0,7]/DynamicFilter/PStereo shortname
+#. /insefx[0,7]/Phaser/lfo.Pstereo shortname
+msgid "stereo"
+msgstr "stereo"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pstretch shortname
+msgid "str"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchStrength shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchStrength shortname
+msgid "strength"
+msgstr "siła"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/padpars/PPunchStretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Penvstretch
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Penvstretch
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Penvstretch
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Penvstretch
+#. shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchStretch shortname
+#. /part[0,15]/kit[0,15]/subpars/Pbwscale shortname
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Penvstretch shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Penvstretch shortname
+msgid "stretch"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "stretchsine"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/Poutsub shortname
+#. /part[0,15]/partefx[0,2]/Phaser/Poutsub shortname
+#. /sysefx[0,3]/Chorus/Poutsub shortname
+#. /sysefx[0,3]/Phaser/Poutsub shortname
+#. /insefx[0,7]/Chorus/Poutsub shortname
+#. /insefx[0,7]/Phaser/Poutsub shortname
+msgid "sub"
+msgstr ""
+
+#. /part[0,15]/ctl/sustain.receive shortname
+#. /ctl/sustain.receive shortname
+msgid "sus.rcv"
+msgstr ""
+
+#. /sysefxfrom[0,3]/to[0,3] tooltip
+msgid "sysefx to sysefx routing gain"
+msgstr ""
+
+#. /part[0,15]/ctl/portamento.pitchthresh shortname
+#. /ctl/portamento.pitchthresh shortname
+msgid "thresh"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchTime shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchTime shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Ptime shortname
+#. /part[0,15]/ctl/portamento.time shortname
+#. /sysefx[0,3]/Reverb/Ptime shortname
+#. /insefx[0,7]/Reverb/Ptime shortname
+#. /ctl/portamento.time shortname
+msgid "time"
+msgstr "czas"
+
+#. /part[0,15]/ctl/portamento.pitchthreshtype shortname
+#. /ctl/portamento.pitchthreshtype shortname
+msgid "tr.type"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/PLFOtype option
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PLFOtype option
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.PLFOtype option
+#. /sysefx[0,3]/Chorus/PLFOtype option
+#. /sysefx[0,3]/DynamicFilter/PLFOtype option
+#. /sysefx[0,3]/Phaser/lfo.PLFOtype option
+#. /insefx[0,7]/Chorus/PLFOtype option
+#. /insefx[0,7]/DynamicFilter/PLFOtype option
+#. /insefx[0,7]/Phaser/lfo.PLFOtype option
+msgid "tri"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+#. /part[0,15]/partefx[0,2]/Alienwah/PLFOtype option
+#. /sysefx[0,3]/Alienwah/PLFOtype option
+#. /insefx[0,7]/Alienwah/PLFOtype option
+msgid "triangle"
+msgstr "trójkątny"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype shortname
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf shortname
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype shortname
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf shortname
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype shortname
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf shortname
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype shortname
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype shortname
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.PLFOtype shortname
+#. /part[0,15]/partefx[0,2]/Reverb/Ptype shortname
+#. /sysefx[0,3]/filterpars/Ptype shortname
+#. /sysefx[0,3]/filterpars/type-svf shortname
+#. /sysefx[0,3]/Distorsion/Ptype shortname
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype shortname
+#. /sysefx[0,3]/Phaser/lfo.PLFOtype shortname
+#. /sysefx[0,3]/Reverb/Ptype shortname
+#. /insefx[0,7]/filterpars/Ptype shortname
+#. /insefx[0,7]/filterpars/type-svf shortname
+#. /insefx[0,7]/Distorsion/Ptype shortname
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype shortname
+#. /insefx[0,7]/Phaser/lfo.PLFOtype shortname
+#. /insefx[0,7]/Reverb/Ptype shortname
+msgid "type"
+msgstr "rodzaj"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/PLFOtype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/PLFOtype option
+msgid "up"
+msgstr "w górę"
+
+#. /part[0,15]/ctl/portamento.updowntimestretch shortname
+#. /ctl/portamento.updowntimestretch shortname
+msgid "up/dwn"
+msgstr "w górę/dół"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc option
+msgid "use-as-base waveform"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterVelocityScale shortname
+msgid "v.scale"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterVelocityScaleFunction
+#. shortname
+msgid "v.sense"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchVelocitySensing shortname
+msgid "v.sns"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandpower shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandpower shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandpower shortname
+msgid "variance"
+msgstr "zróżnicowanie"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_vibratto shortname
+msgid "vib."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVoice shortname
+msgid "voice"
+msgstr "głos"
+
+#. /part[0,15]/kit[0,15]/padpars/PVolume shortname
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PVolume shortname
+msgid "vol"
+msgstr "głoś."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PVolume shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVolume shortname
+msgid "vol."
+msgstr "głoś."
+
+#. /part[0,15]/ctl/volume.receive shortname
+#. /ctl/volume.receive shortname
+msgid "vol.rcv"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PVolume shortname
+#. /Pvolume shortname
+#. /volume shortname
+msgid "volume"
+msgstr "głośność"
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PVolume tooltip
+msgid "volume control"
+msgstr "kontrola głośności"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/preset option
+#. /sysefx[0,3]/Alienwah/preset option
+#. /insefx[0,7]/Alienwah/preset option
+msgid "wah 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/preset option
+#. /sysefx[0,3]/Alienwah/preset option
+#. /insefx[0,7]/Alienwah/preset option
+msgid "wah 2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/preset option
+#. /sysefx[0,3]/Alienwah/preset option
+#. /insefx[0,7]/Alienwah/preset option
+msgid "wah 3"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/preset option
+#. /sysefx[0,3]/Alienwah/preset option
+#. /insefx[0,7]/Alienwah/preset option
+msgid "wah 4"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.par1 shortname
+msgid "warp"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/Pwidth shortname
+#. /sysefx[0,3]/Phaser/Pwidth shortname
+#. /insefx[0,7]/Phaser/Pwidth shortname
+msgid "width"
+msgstr "szerokość"
+
+#. /part[0,15]/kit[0,15]/subpars/Pstart option
+msgid "zero"
+msgstr "zero"
+
+#. /part[0,15]/kit[0,15]/subpars/POffsetHz shortname
+msgid "+ Hz"
+msgstr "+ Hz"
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype option
+msgid "-100dB"
+msgstr "-100dB"
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype option
+msgid "-40dB"
+msgstr "-40dB"
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype option
+msgid "-60dB"
+msgstr "-60dB"
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype option
+msgid "-80dB"
+msgstr "-80dB"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "0.5"
+msgstr "0.5"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "1"
+msgstr "1"
+
+#. /microtonal/PAnote shortname
+msgid "1/1 midi note"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "12"
+msgstr "12"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "128k"
+msgstr "128k"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "150%"
+msgstr "150%"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "16k (Tiny)"
+msgstr "16k (Bardzo mały)"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "1M (Big)"
+msgstr "1M (Duży)"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "2"
+msgstr "2"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase option
+msgid "25%"
+msgstr "25%"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "256k (Normal)"
+msgstr "256k (Normalny)"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "2xAdd"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "2xSub"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "3"
+msgstr "3"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "32k"
+msgstr "32k"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase option
+msgid "33%"
+msgstr "33%"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "3xAdd"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "3xSub"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "4"
+msgstr "4"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "4xAdd"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "4xSub"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_invert_phase option
+msgid "50%"
+msgstr "50%"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "512k"
+msgstr "512k"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.smpoct option
+msgid "6"
+msgstr "6"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.samplesize option
+msgid "64k (Small)"
+msgstr "64k (Mały)"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "75%"
+msgstr "75%"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/preset option
+msgid "A. Exciter 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/preset option
+msgid "A. Exciter 2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Padenabled tooltip
+msgid "ADsynth enable"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 3"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 4"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 5"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/preset option
+#. /sysefx[0,3]/Phaser/preset option
+#. /insefx[0,7]/Phaser/preset option
+msgid "APhaser 6"
+msgstr ""
+
+#. /part[0,15]/Prcvchn tooltip
+msgid "Active MIDI channel"
+msgstr "Aktywny kanał MIDI"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicspower tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicspower
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicspower
+#. tooltip
+msgid "Adaptive Harmonic Strength"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics tooltip
+msgid "Adaptive Harmonics Mode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicspar tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicspar
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicspar
+#. tooltip
+msgid "Adaptive Harmonics Postprocessing Power"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Pstages tooltip
+#. /sysefx[0,3]/EQ/filter[0,7]/Pstages tooltip
+#. /insefx[0,7]/EQ/filter[0,7]/Pstages tooltip
+msgid "Additional filter stages"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Fadein_adjustment tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Fadein_adjustment tooltip
+msgid "Adjustment for anti-pop strategy."
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Alienwah"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pharmonicshift tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pharmonicshift tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pharmonicshift tooltip
+msgid "Amount of shift on harmonics"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpEnvelopeEnabled tooltip
+msgid "Amplitude Envelope Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PAmpLfoEnabled tooltip
+msgid "Amplitude LFO Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Prandomness tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Prandomness tooltip
+msgid "Amplitude Randomness (calculated uniformly at each cycle)"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PAmpVelocityScaleFunction tooltip
+#. /part[0,15]/kit[0,15]/subpars/PAmpVelocityScaleFunction tooltip
+msgid "Amplitude Velocity Sensing function"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode tooltip
+msgid "Amplitude harmonic multiplier type"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.par1 tooltip
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.par2 tooltip
+msgid "Amplitude multiplier parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Arctangent"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Asym2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Asymmetric"
+msgstr "Asymetrycznie"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PA_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PA_dt tooltip
+msgid "Attack Time"
+msgstr "Czas narastania"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PA_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PA_val tooltip
+msgid "Attack Value"
+msgstr "Wartość narastania"
+
+#. /config/cfg.BankUIAutoClose tooltip
+msgid "Automatic Closing of BackUI After Patch Selection"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.autoscale tooltip
+msgid "Autoscaling Harmonics"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "BP"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Ptype option
+#. /part[0,15]/partefx[0,2]/Reverb/Pbandwidth tooltip
+#. /sysefx[0,3]/Reverb/Ptype option
+#. /sysefx[0,3]/Reverb/Pbandwidth tooltip
+#. /insefx[0,7]/Reverb/Ptype option
+#. /insefx[0,7]/Reverb/Pbandwidth tooltip
+msgid "Bandwidth"
+msgstr "Przepustowość"
+
+#. /part[0,15]/ctl/bandwidth.exponential tooltip
+#. /ctl/bandwidth.exponential tooltip
+msgid "Bandwidth Exponential Mode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Pbandwidth tooltip
+msgid "Bandwidth of filters"
+msgstr "Przepustowość filtrów"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale tooltip
+msgid "Bandwidth scaling"
+msgstr "Skalowanie przepustowości"
+
+#. /part[0,15]/kit[0,15]/subpars/Pbwscale tooltip
+msgid "Bandwidth scaling with frequency"
+msgstr "Skalowanie przepustowości z częstotliwością"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbandwidth tooltip
+msgid "Bandwith Of Harmonics"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pcurrentbasefunc tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pcurrentbasefunc tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pcurrentbasefunc tooltip
+msgid "Base Waveform for harmonics"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pfixedfreq tooltip
+#. /part[0,15]/kit[0,15]/subpars/Pfixedfreq tooltip
+msgid "Base frequency fixed frequency enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonicsbasefreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonicsbasefreq
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonicsbasefreq
+#. tooltip
+msgid "Base frequency of adaptive harmonic (30..3000Hz)"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar1 tooltip
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar2 tooltip
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulationpar3 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar1
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar2
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulationpar3
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar1
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar2
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulationpar3
+#. tooltip
+msgid "Base function modulation parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote tooltip
+msgid "Base note for wavetable"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Basement"
+msgstr "Piwnica"
+
+#. /config/cfg.UserInterfaceMode tooltip
+msgid "Beginner/Advanced Mode Select"
+msgstr "Wybór trybu zaawansowanego/początkującego"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "C-2"
+msgstr "C-2"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "C-3"
+msgstr "C-3"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "C-4"
+msgstr "C-4"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "C-5"
+msgstr "C-5"
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Canyon"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Cathedral1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Cathedral2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Cathedral3"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Celeste1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Celeste2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pfreq tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pfreq tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pfreq tooltip
+#. /sysefx[0,3]/filterpars/Pfreq tooltip
+#. /insefx[0,7]/filterpars/Pfreq tooltip
+msgid "Center Freq"
+msgstr "Częst. środ."
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcenterfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcenterfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcenterfreq tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcenterfreq tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pcenterfreq tooltip
+#. /sysefx[0,3]/filterpars/Pcenterfreq tooltip
+#. /insefx[0,7]/filterpars/Pcenterfreq tooltip
+msgid "Center Freq (formant)"
+msgstr "Częst. środ. (formant)"
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Pcenterfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Pcenterfreq tooltip
+msgid "Center frequency"
+msgstr "Środkowa częstotliwość"
+
+#. /part[0,15]/partefx[0,2]/Phaser/Plrcross tooltip
+#. /sysefx[0,3]/Phaser/Plrcross tooltip
+#. /insefx[0,7]/Phaser/Plrcross tooltip
+msgid "Channel routing"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation option
+msgid "Chop"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Chorus"
+msgstr "Chór"
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Chorus1"
+msgstr "Chór1"
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Chorus2"
+msgstr "Chór2"
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Chorus3"
+msgstr "Chór3"
+
+#. /part[0,15]/info.Ptype tooltip
+msgid "Class of Instrument"
+msgstr "Rodzaj instrumentu"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pcategory tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pcategory tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pcategory tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pcategory tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pcategory tooltip
+#. /sysefx[0,3]/filterpars/Pcategory tooltip
+#. /insefx[0,7]/filterpars/Pcategory tooltip
+msgid "Class of filter"
+msgstr "Rodzaj filtru"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Clip"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PCoarseDetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PCoarseDetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PCoarseDetune tooltip
+#. /part[0,15]/kit[0,15]/subpars/PCoarseDetune tooltip
+msgid "Coarse Detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/coarsedetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/coarsedetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/coarsedetune tooltip
+msgid "Coarse note detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMcoarsedetune tooltip
+msgid "Coarse note detune for modulator"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Pfreemode tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Pfreemode tooltip
+msgid "Complex Envelope Definitions"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Type option
+msgid "DC"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/Phidamp tooltip
+#. /sysefx[0,3]/Echo/Phidamp tooltip
+#. /insefx[0,7]/Echo/Phidamp tooltip
+msgid "Dampen High Frequencies"
+msgstr "Tłum wysokie częstotliwości"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Plohidamp tooltip
+#. /sysefx[0,3]/Reverb/Plohidamp tooltip
+#. /insefx[0,7]/Reverb/Plohidamp tooltip
+msgid "Dampening"
+msgstr "Tłumienie"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PD_dt tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PD_dt tooltip
+msgid "Decay Time"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/PD_val tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/PD_val tooltip
+msgid "Decay Value"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshaping tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshaping tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshaping tooltip
+msgid "Degree Of Waveshaping"
+msgstr "Promień kształtowania fali"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pdelay tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Pdelay tooltip
+#. /sysefx[0,3]/Alienwah/Pdelay tooltip
+#. /sysefx[0,3]/Chorus/Pdelay tooltip
+#. /insefx[0,7]/Alienwah/Pdelay tooltip
+#. /insefx[0,7]/Chorus/Pdelay tooltip
+msgid "Delay"
+msgstr "Odstęp"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pdelay tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pdelay tooltip
+msgid ""
+"Delay before LFO start\n"
+"0..4 second delay"
+msgstr ""
+"Odstęp przed rozpoczęciem LFO\n"
+"0…4 sekundy odstępu"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Pidelay tooltip
+#. /sysefx[0,3]/Reverb/Pidelay tooltip
+#. /insefx[0,7]/Reverb/Pidelay tooltip
+msgid "Delay for first impulse"
+msgstr "Odstęp pierwszego impulsu"
+
+#. /part[0,15]/ctl/bandwidth.depth tooltip
+#. /ctl/bandwidth.depth tooltip
+msgid "Depth of Bandwidth MIDI Control"
+msgstr ""
+
+#. /part[0,15]/ctl/filtercutoff.depth tooltip
+#. /ctl/filtercutoff.depth tooltip
+msgid "Depth of Filter Cutoff MIDI Control"
+msgstr ""
+
+#. /part[0,15]/ctl/filterq.depth tooltip
+#. /ctl/filterq.depth tooltip
+msgid "Depth of Filter Q MIDI Control"
+msgstr ""
+
+#. /part[0,15]/ctl/modwheel.depth tooltip
+#. /ctl/modwheel.depth tooltip
+msgid "Depth of Modwheel MIDI Control"
+msgstr ""
+
+#. /part[0,15]/ctl/panning.depth tooltip
+#. /ctl/panning.depth tooltip
+msgid "Depth of Panning MIDI Control"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType tooltip
+msgid "Detune Scale"
+msgstr "Skala odstrojenia"
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType tooltip
+msgid "Detune Scaling Type"
+msgstr "Rodzaj skalowania odstrojenia"
+
+#. /part[0,15]/kit[0,15]/subpars/PDetune tooltip
+msgid "Detune in detune type units"
+msgstr "Odstrojenie w jednostkach odstrojenia"
+
+#. /part[0,15]/partefx[0,2]/Echo/Plrdelay tooltip
+#. /sysefx[0,3]/Echo/Plrdelay tooltip
+#. /insefx[0,7]/Echo/Plrdelay tooltip
+msgid "Difference In Left/Right Delay"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/resonance/Pprotectthefundamental tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Reson/Pprotectthefundamental tooltip
+msgid "Disable resonance filter on first harmonic"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Disabled"
+msgstr "Wyłączono"
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /part[0,15]/partefx[0,2]/Phaser/Pdistortion tooltip
+#. /sysefx[0,3]/efftype option
+#. /sysefx[0,3]/Phaser/Pdistortion tooltip
+#. /insefx[0,7]/efftype option
+#. /insefx[0,7]/Phaser/Pdistortion tooltip
+msgid "Distortion"
+msgstr "Zniekształcenie"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype tooltip
+#. /sysefx[0,3]/Distorsion/Ptype tooltip
+#. /insefx[0,7]/Distorsion/Ptype tooltip
+msgid "Distortion Shape"
+msgstr "Kształt zniekształcenia"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.modulator.par1 tooltip
+msgid "Distribution modulator parameter"
+msgstr "Parametr modulatora dystrybucji"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode option
+msgid "Div1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode option
+msgid "Div2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "Double"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.type option
+msgid "Double Exponential"
+msgstr ""
+
+#. /part[0,15]/Pdrummode tooltip
+msgid ""
+"Drum mode enable\n"
+"When drum mode is enabled all keys are mapped to 12tET and legato is disabled"
+msgstr ""
+
+#. /part[0,15]/Pefxroute[0,2] option
+msgid "Dry Out"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "DynFilter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType option
+msgid "E100 cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType option
+msgid "E100cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType option
+msgid "E1200 cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType option
+msgid "E1200cents"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "EQ"
+msgstr "EQ"
+
+#. /part[0,15]/partefx[0,2]/efftype option
+#. /sysefx[0,3]/efftype option
+#. /insefx[0,7]/efftype option
+msgid "Echo"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Echo 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Echo 2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Echo 3"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/Pfb tooltip
+#. /sysefx[0,3]/Echo/Pfb tooltip
+#. /insefx[0,7]/Echo/Pfb tooltip
+msgid "Echo Feedback"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Echoed1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Echoed2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfreq tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Pfreq tooltip
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pfreq tooltip
+#. /sysefx[0,3]/Alienwah/Pfreq tooltip
+#. /sysefx[0,3]/Chorus/Pfreq tooltip
+#. /sysefx[0,3]/DynamicFilter/Pfreq tooltip
+#. /insefx[0,7]/Alienwah/Pfreq tooltip
+#. /insefx[0,7]/Chorus/Pfreq tooltip
+#. /insefx[0,7]/DynamicFilter/Pfreq tooltip
+msgid "Effect Frequency"
+msgstr "Częstotliwość efektu"
+
+#. /part[0,15]/kit[0,15]/Psendtoparteffect tooltip
+msgid "Effect Levels"
+msgstr "Poziomy efektu"
+
+#. /part[0,15]/partefx[0,2]/preset tooltip
+#. /sysefx[0,3]/preset tooltip
+#. /insefx[0,7]/preset tooltip
+msgid "Effect Preset Selector"
+msgstr ""
+
+#. /part[0,15]/Pefxroute[0,2] tooltip
+msgid "Effect Routing"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PBandWidthEnvelopeEnabled tooltip
+msgid "Enable for Bandwidth Envelope"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PFreqEnvelopeEnabled tooltip
+msgid "Enable for Frequency Envelope"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterEnabled tooltip
+msgid "Enable for Global Filter"
+msgstr "Włącz dla filtru globalnego"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pcontinous tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pcontinous tooltip
+msgid "Enable for global operation"
+msgstr "Włącz dla działań globalnych"
+
+#. /microtonal/Penabled tooltip
+msgid "Enable for microtonal mode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Penvdt[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Penvdt[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Penvdt[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Penvdt[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Penvdt[0,39] tooltip
+msgid "Envelope Delay Times"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Penvval[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Penvval[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Penvval[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Penvval[0,39]
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Penvval[0,39] tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Penvval[0,39] tooltip
+msgid "Envelope Values"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PfixedfreqET tooltip
+msgid "Equal Temperament Parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PfixedfreqET tooltip
+#. /part[0,15]/kit[0,15]/subpars/PfixedfreqET tooltip
+msgid "Equal temeperate control for fixed frequency operation"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "EqualHz"
+msgstr ""
+
+#. /part[0,15]/ctl/expression.receive tooltip
+#. /ctl/expression.receive tooltip
+msgid "Expression MIDI Receive"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PextFMoscil tooltip
+msgid "External FM Oscillator Selection"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pextoscil tooltip
+msgid "External Oscillator Selection"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation shortname
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation shortname
+msgid "FM"
+msgstr "FM"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMoscilphase tooltip
+msgid "FM Oscillator Phase"
+msgstr ""
+
+#. /part[0,15]/ctl/fmamp.receive tooltip
+#. /ctl/fmamp.receive tooltip
+msgid "FM amplitude MIDI Receive"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Psendtoparteffect option
+msgid "FX1"
+msgstr "FX1"
+
+#. /part[0,15]/kit[0,15]/Psendtoparteffect option
+msgid "FX2"
+msgstr "FX2"
+
+#. /part[0,15]/kit[0,15]/Psendtoparteffect option
+msgid "FX3"
+msgstr "FX3"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfeedback tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Pfeedback tooltip
+#. /part[0,15]/partefx[0,2]/Phaser/Pfb tooltip
+#. /sysefx[0,3]/Alienwah/Pfeedback tooltip
+#. /sysefx[0,3]/Chorus/Pfeedback tooltip
+#. /sysefx[0,3]/Phaser/Pfb tooltip
+#. /insefx[0,7]/Alienwah/Pfeedback tooltip
+#. /insefx[0,7]/Chorus/Pfeedback tooltip
+#. /insefx[0,7]/Phaser/Pfb tooltip
+msgid "Feedback"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Feedback Echo"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Pidelayfb tooltip
+#. /sysefx[0,3]/Reverb/Pidelayfb tooltip
+#. /insefx[0,7]/Reverb/Pidelayfb tooltip
+msgid "Feedback for first impulse"
+msgstr ""
+
+#. /last_xmz tooltip
+msgid "File name for last name loaded if any."
+msgstr "Nazwa ostatnio załadowanego pliku."
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pfilterbypass tooltip
+msgid "Filter Bypass"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterEnabled tooltip
+msgid "Filter Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterEnvelopeEnabled tooltip
+msgid "Filter Envelope Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterLfoEnabled tooltip
+msgid "Filter LFO Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pstages tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pstages tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pstages tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pstages tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pstages tooltip
+#. /sysefx[0,3]/filterpars/Pstages tooltip
+#. /insefx[0,7]/filterpars/Pstages tooltip
+msgid "Filter Stages"
+msgstr "Etapy filtru"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype tooltip
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/type-svf tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/type-svf tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/type-svf tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/type-svf tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/type-svf tooltip
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype tooltip
+#. /sysefx[0,3]/filterpars/Ptype tooltip
+#. /sysefx[0,3]/filterpars/type-svf tooltip
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype tooltip
+#. /insefx[0,7]/filterpars/Ptype tooltip
+#. /insefx[0,7]/filterpars/type-svf tooltip
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype tooltip
+msgid "Filter Type"
+msgstr "Rodzaj filtru"
+
+#. /part[0,15]/kit[0,15]/padpars/PFilterVelocityScaleFunction tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterVelocityScaleFunction
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PFilterVelocityScaleFunction tooltip
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterVelocityScaleFunction tooltip
+msgid "Filter Velocity Function Shape"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PFilterVelocityScale tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFilterVelocityScale tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PFilterVelocityScale tooltip
+#. /part[0,15]/kit[0,15]/subpars/PGlobalFilterVelocityScale tooltip
+msgid "Filter Velocity Magnitude"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterbeforews tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterbeforews tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterbeforews tooltip
+msgid "Filter before waveshaping spectra;When enabled oscilfilter(freqs); then waveshape(freqs);, otherwise waveshape(freqs); then oscilfilter(freqs);"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterpar1 tooltip
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfilterpar2 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterpar1 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfilterpar2 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterpar1 tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfilterpar2 tooltip
+msgid "Filter parameter"
+msgstr "Parametr filtru"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pprefiltering tooltip
+#. /sysefx[0,3]/Distorsion/Pprefiltering tooltip
+#. /insefx[0,7]/Distorsion/Pprefiltering tooltip
+msgid "Filtering before/after non-linearity"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetune tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetune tooltip
+msgid "Fine Detune"
+msgstr "Precyzyjne odstrojenie"
+
+#. /microtonal/Pglobalfinedetune tooltip
+msgid "Fine detune for all notes"
+msgstr "Precyzyjne odstrojenie wszystkich nut"
+
+#. /microtonal/Pfirstkey tooltip
+msgid "First key to retune"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/Pflangemode tooltip
+#. /sysefx[0,3]/Chorus/Pflangemode tooltip
+#. /insefx[0,7]/Chorus/Pflangemode tooltip
+msgid "Flange Mode"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Flange1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Flange2"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Flange3"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Flange4"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Chorus/preset option
+#. /sysefx[0,3]/Chorus/preset option
+#. /insefx[0,7]/Chorus/preset option
+msgid "Flange5"
+msgstr "Płaski"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type option
+msgid "Flat"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Pforcedrelease
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Pforcedrelease
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Pforcedrelease
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Pforcedrelease
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Pforcedrelease
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Pforcedrelease tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Pforcedrelease tooltip
+msgid "Force Envelope to fully evaluate"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par3 tooltip
+msgid "Force Overtones To Harmonics"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowels[0,5]/Pformants[0,11]/freq
+#. tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq
+#. tooltip
+#. /sysefx[0,3]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq tooltip
+#. /insefx[0,7]/filterpars/Pvowels[0,5]/Pformants[0,11]/freq tooltip
+msgid "Formant frequency"
+msgstr "Częstotliwość formantu"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Ptype option
+#. /sysefx[0,3]/Reverb/Ptype option
+#. /insefx[0,7]/Reverb/Ptype option
+msgid "Freeverb"
+msgstr "Freeverb"
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFreqEnvelopeEnabled tooltip
+msgid "Frequency Envelope Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFreqLfoEnabled tooltip
+msgid "Frequency LFO Enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation tooltip
+msgid "Frequency Modulation To Combined Spectra"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pfreqrnd tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Pfreqrnd tooltip
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pfreqrnd tooltip
+#. /sysefx[0,3]/Alienwah/Pfreqrnd tooltip
+#. /sysefx[0,3]/Chorus/Pfreqrnd tooltip
+#. /sysefx[0,3]/DynamicFilter/Pfreqrnd tooltip
+#. /insefx[0,7]/Alienwah/Pfreqrnd tooltip
+#. /insefx[0,7]/Chorus/Pfreqrnd tooltip
+#. /insefx[0,7]/DynamicFilter/Pfreqrnd tooltip
+msgid "Frequency Randomness"
+msgstr "Losowość częstotliwości"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pfreqrand tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pfreqrand tooltip
+msgid "Frequency Randomness (calculated uniformly at each cycle)"
+msgstr "Losowość częstotliwości (inna za każdym cyklem)"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pfreqtrack tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pfreqtrack tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pfreqtrack tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pfreqtrack tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pfreqtrack tooltip
+#. /sysefx[0,3]/filterpars/Pfreqtrack tooltip
+#. /insefx[0,7]/filterpars/Pfreqtrack tooltip
+msgid "Frequency Tracking amount"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.freqmult tooltip
+msgid "Frequency multiplier on distribution"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.modulator.freq tooltip
+msgid "Frequency of modulator parameter"
+msgstr "Częstotliwość parametru modulatora"
+
+#. /microtonal/PAfreq tooltip
+msgid "Frequency of the 'A' note"
+msgstr "Częstotliwość nuty A"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.onehalf option
+msgid "Full"
+msgstr "Pełny"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "G-2"
+msgstr "G-2"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "G-3"
+msgstr "G-3"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "G-4"
+msgstr "G-4"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "G-5"
+msgstr "G-5"
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.basenote option
+msgid "G-6"
+msgstr "G-6"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type option
+msgid "Gauss"
+msgstr "Gauss"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.type option
+msgid "Gaussian"
+msgstr "Gaussa"
+
+#. /part[0,15]/partefx[0,2]/efftype tooltip
+#. /sysefx[0,3]/efftype tooltip
+#. /insefx[0,7]/efftype tooltip
+msgid "Get Effect Type"
+msgstr "Uzyskaj rodzaj efektu"
+
+#. /Pkeyshift tooltip
+msgid "Global Key Shift"
+msgstr "Globalne przesunięcie nuty"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/preset option
+msgid "Guitar Amp"
+msgstr "Wzmacniacz gitarowy"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "HP1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "HP2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "Half"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Hall1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/preset option
+#. /sysefx[0,3]/Reverb/preset option
+#. /insefx[0,7]/Reverb/preset option
+msgid "Hall2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type option
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.type option
+msgid "Harmonic"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pmode tooltip
+msgid "Harmonic Distribution Model"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype tooltip
+msgid "Harmonic Filter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.type tooltip
+msgid "Harmonic Overtone shifting mode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.onehalf tooltip
+msgid "Harmonic cutoff model"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Phmag[0,63] tooltip
+msgid "Harmonic magnitudes"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par1 tooltip
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par2 tooltip
+#. /part[0,15]/kit[0,15]/padpars/Phrpos.par3 tooltip
+msgid "Harmonic position parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.type tooltip
+msgid "Harmonic profile shape"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandtype tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandtype tooltip
+msgid "Harmonic random distribution to select from"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.base.par1 tooltip
+msgid "Harmonic shape distribution parameter"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Phpf tooltip
+#. /sysefx[0,3]/Distorsion/Phpf tooltip
+#. /insefx[0,7]/Distorsion/Phpf tooltip
+msgid "High Pass Cutoff"
+msgstr "Odcięcie wysokich częstotliwości"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Phpf tooltip
+#. /sysefx[0,3]/Reverb/Phpf tooltip
+#. /insefx[0,7]/Reverb/Phpf tooltip
+msgid "High pass filter"
+msgstr "Filtr górnoprzepustowy"
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchStretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchStretch tooltip
+msgid "How Punch changes with note frequency"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Pstart tooltip
+msgid "How harmonics are initialized"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencestretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencestretch
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencestretch tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencestretch tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencestretch tooltip
+#. /sysefx[0,3]/filterpars/Psequencestretch tooltip
+#. /insefx[0,7]/filterpars/Psequencestretch tooltip
+msgid "How modulators stretch the sequence"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pvowelclearness tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pvowelclearness
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pvowelclearness tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pvowelclearness tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pvowelclearness tooltip
+#. /sysefx[0,3]/filterpars/Pvowelclearness tooltip
+#. /insefx[0,7]/filterpars/Pvowelclearness tooltip
+msgid "How much each vowel is smudged with the next in sequence. A high clarity will avoid smudging."
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/Hrandgrouping tooltip
+msgid "How randomness is applied to multiple voices using the same oscil"
+msgstr ""
+
+#. /part[0,15]/ctl/pitchwheel.is_split tooltip
+#. /ctl/pitchwheel.is_split tooltip
+msgid "If PitchWheel Has unified bendrange or not"
+msgstr ""
+
+#. /part[0,15]/Pefxbypass[0,2] tooltip
+msgid "If an effect is bypassed"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Pfixedfreq tooltip
+msgid "If frequency is fixed"
+msgstr "Jeżeli częstotliwość jest stała"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pharmonicshiftfirst tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pharmonicshiftfirst
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pharmonicshiftfirst tooltip
+msgid "If harmonics are shifted before waveshaping/filtering"
+msgstr ""
+
+#. /part[0,15]/Pnoteon tooltip
+msgid "If the channel accepts note on events"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencereversed tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencereversed
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencereversed
+#. tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencereversed tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencereversed tooltip
+#. /sysefx[0,3]/filterpars/Psequencereversed tooltip
+#. /insefx[0,7]/filterpars/Psequencereversed tooltip
+msgid "If the modulator input is inverted"
+msgstr "Jeżeli wejście modulatora jest odwrócone"
+
+#. /config/cfg.IgnoreProgramChange tooltip
+msgid "Ignore MIDI Program Change Events"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pdrive tooltip
+#. /sysefx[0,3]/Distorsion/Pdrive tooltip
+#. /insefx[0,7]/Distorsion/Pdrive tooltip
+msgid "Input amplification"
+msgstr "Wzmocnienie wejścia"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/preset tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/preset tooltip
+#. /part[0,15]/partefx[0,2]/Distorsion/preset tooltip
+#. /part[0,15]/partefx[0,2]/Echo/preset tooltip
+#. /part[0,15]/partefx[0,2]/Phaser/preset tooltip
+#. /part[0,15]/partefx[0,2]/Reverb/preset tooltip
+#. /sysefx[0,3]/Alienwah/preset tooltip
+#. /sysefx[0,3]/Chorus/preset tooltip
+#. /sysefx[0,3]/Distorsion/preset tooltip
+#. /sysefx[0,3]/Echo/preset tooltip
+#. /sysefx[0,3]/Phaser/preset tooltip
+#. /sysefx[0,3]/Reverb/preset tooltip
+#. /insefx[0,7]/Alienwah/preset tooltip
+#. /insefx[0,7]/Chorus/preset tooltip
+#. /insefx[0,7]/Distorsion/preset tooltip
+#. /insefx[0,7]/Echo/preset tooltip
+#. /insefx[0,7]/Phaser/preset tooltip
+#. /insefx[0,7]/Reverb/preset tooltip
+msgid "Instrument Presets"
+msgstr "Gotowe ustawienia instrumentów"
+
+#. /part[0,15]/info.Pauthor tooltip
+msgid "Instrument author"
+msgstr "Autor insteumentu"
+
+#. /part[0,15]/info.Pcomments tooltip
+msgid "Instrument comments"
+msgstr "Komentarze do instrumentów"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pintensity tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pintensity tooltip
+msgid "Intensity of LFO"
+msgstr "Intensywność LFO"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "Inv. Half"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Inverse Limiter"
+msgstr "Odwrócony limiter"
+
+#. /part[0,15]/partefx[0,2]/Phaser/Poutsub tooltip
+#. /sysefx[0,3]/Phaser/Poutsub tooltip
+#. /insefx[0,7]/Phaser/Poutsub tooltip
+msgid "Invert output"
+msgstr "Odwróć wyjście"
+
+#. /part[0,15]/Pkeylimit tooltip
+msgid "Key limit per part"
+msgstr ""
+
+#. /config/cfg.VirKeybLayout tooltip
+msgid "Keyboard Layout For Virtual Piano Keyboard"
+msgstr "Wygląd wirtualnej klawiatury"
+
+#. /part[0,15]/kit[0,15]/Pname tooltip
+msgid "Kit User Specified Label"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Penabled tooltip
+msgid "Kit item enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Pmaxkey tooltip
+msgid "Kit item max key"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Pminkey tooltip
+msgid "Kit item min key"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Pmuted tooltip
+msgid "Kit item mute"
+msgstr ""
+
+#. /part[0,15]/Pkitmode tooltip
+msgid ""
+"Kit mode/enable\n"
+"Off        - Only the first kit is ever utilized\n"
+"Multi-kit  - Every applicable kit is run for a note\n"
+"Single-kit - The first applicable kit is run for a given note"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType option
+msgid "L10 cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType option
+msgid "L10cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/PDetuneType option
+msgid "L35 cents"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PDetuneType option
+msgid "L35cents"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Pdepth tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Pdepth tooltip
+#. /part[0,15]/partefx[0,2]/DynamicFilter/Pdepth tooltip
+#. /sysefx[0,3]/Alienwah/Pdepth tooltip
+#. /sysefx[0,3]/Chorus/Pdepth tooltip
+#. /sysefx[0,3]/DynamicFilter/Pdepth tooltip
+#. /insefx[0,7]/Alienwah/Pdepth tooltip
+#. /insefx[0,7]/Chorus/Pdepth tooltip
+#. /insefx[0,7]/DynamicFilter/Pdepth tooltip
+msgid "LFO Depth"
+msgstr "Głębia LFO"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/PLFOtype tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/PLFOtype tooltip
+#. /part[0,15]/partefx[0,2]/DynamicFilter/PLFOtype tooltip
+#. /sysefx[0,3]/Alienwah/PLFOtype tooltip
+#. /sysefx[0,3]/Chorus/PLFOtype tooltip
+#. /sysefx[0,3]/DynamicFilter/PLFOtype tooltip
+#. /insefx[0,7]/Alienwah/PLFOtype tooltip
+#. /insefx[0,7]/Chorus/PLFOtype tooltip
+#. /insefx[0,7]/DynamicFilter/PLFOtype tooltip
+msgid "LFO Shape"
+msgstr "Kształt LFO"
+
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Pfreq tooltip
+#. /sysefx[0,3]/Phaser/lfo.Pfreq tooltip
+#. /insefx[0,7]/Phaser/lfo.Pfreq tooltip
+msgid "LFO frequency"
+msgstr "częstotliwość LFO"
+
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Prandomness tooltip
+#. /sysefx[0,3]/Phaser/lfo.Prandomness tooltip
+#. /insefx[0,7]/Phaser/lfo.Prandomness tooltip
+msgid "LFO randomness"
+msgstr "losowość LFO"
+
+#. /part[0,15]/partefx[0,2]/Phaser/Pdepth tooltip
+#. /sysefx[0,3]/Phaser/Pdepth tooltip
+#. /insefx[0,7]/Phaser/Pdepth tooltip
+msgid "LFP depth"
+msgstr "głębia LFP"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "LP1"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Ptype option
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Ptype option
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Ptype option
+#. /part[0,15]/partefx[0,2]/filterpars/Ptype option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /sysefx[0,3]/filterpars/Ptype option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/filterpars/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+msgid "LP2"
+msgstr ""
+
+#. /microtonal/Plastkey tooltip
+msgid "Last key to retune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PPanning tooltip
+#. /part[0,15]/kit[0,15]/subpars/PPanning tooltip
+msgid "Left Right Panning"
+msgstr "Panoramowanie lewo/prawo"
+
+#. /part[0,15]/partefx[0,2]/Alienwah/Plrcross tooltip
+#. /part[0,15]/partefx[0,2]/Chorus/Plrcross tooltip
+#. /part[0,15]/partefx[0,2]/Distorsion/Plrcross tooltip
+#. /part[0,15]/partefx[0,2]/Echo/Plrcross tooltip
+#. /sysefx[0,3]/Alienwah/Plrcross tooltip
+#. /sysefx[0,3]/Chorus/Plrcross tooltip
+#. /sysefx[0,3]/Distorsion/Plrcross tooltip
+#. /sysefx[0,3]/Echo/Plrcross tooltip
+#. /insefx[0,7]/Alienwah/Plrcross tooltip
+#. /insefx[0,7]/Chorus/Plrcross tooltip
+#. /insefx[0,7]/Distorsion/Plrcross tooltip
+#. /insefx[0,7]/Echo/Plrcross tooltip
+msgid "Left/Right Crossover"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/lfo.Pstereo tooltip
+#. /sysefx[0,3]/Phaser/lfo.Pstereo tooltip
+#. /insefx[0,7]/Phaser/lfo.Pstereo tooltip
+msgid "Left/right channel phase shift"
+msgstr ""
+
+#. /part[0,15]/polyType option
+msgid "Legato"
+msgstr "Legato"
+
+#. /part[0,15]/Plegatomode tooltip
+msgid "Legato mode"
+msgstr "Tryb legato"
+
+#. /part[0,15]/partefx[0,2]/Echo/Pdelay tooltip
+#. /sysefx[0,3]/Echo/Pdelay tooltip
+#. /insefx[0,7]/Echo/Pdelay tooltip
+msgid "Length of Echo"
+msgstr "Długość echo"
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PPunchTime tooltip
+msgid "Length of Punch"
+msgstr "Długość uderzenia"
+
+#. /part[0,15]/partefx[0,2]/Reverb/Ptime tooltip
+#. /sysefx[0,3]/Reverb/Ptime tooltip
+#. /insefx[0,7]/Reverb/Ptime tooltip
+msgid "Length of Reverb"
+msgstr "Długość pogłosu"
+
+#. /part[0,15]/kit[0,15]/padpars/PPunchTime tooltip
+msgid "Length of punch"
+msgstr "Długość uderzenia"
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Psequencesize tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Psequencesize tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Psequencesize tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Psequencesize tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Psequencesize tooltip
+#. /sysefx[0,3]/filterpars/Psequencesize tooltip
+#. /insefx[0,7]/filterpars/Psequencesize tooltip
+msgid "Length of vowel sequence"
+msgstr ""
+
+#. /config/cfg.GzipCompression tooltip
+msgid "Level of Gzip Compression For Save Files"
+msgstr "Poziom kompresji Gzip zapisywanych plików"
+
+#. /config/cfg.Interpolation tooltip
+msgid "Level of Interpolation, Linear/Cubic"
+msgstr "Poziom interpolacji, liniowa/kubiczna"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Limiter"
+msgstr "Limiter"
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Plinearenvelope
+#. tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Plinearenvelope tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Plinearenvelope tooltip
+msgid "Linear or Logarithmic Envelopes"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterEnvelope/Penvsustain
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMFreqEnvelope/Penvsustain
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMAmpEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/subpars/AmpEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/subpars/FreqEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/subpars/BandWidthEnvelope/Penvsustain tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilterEnvelope/Penvsustain tooltip
+msgid "Location of the sustain point"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Plpf tooltip
+#. /sysefx[0,3]/Distorsion/Plpf tooltip
+#. /insefx[0,7]/Distorsion/Plpf tooltip
+msgid "Low Pass Cutoff"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Reverb/Plpf tooltip
+#. /sysefx[0,3]/Reverb/Plpf tooltip
+#. /insefx[0,7]/Reverb/Plpf tooltip
+msgid "Low pass filter"
+msgstr "Filtr dolnoprzepustowy"
+
+#. /part[0,15]/kit[0,15]/padpars/Php.onehalf option
+msgid "Lower Half"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pwaveshapingfunction option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pwaveshapingfunction
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pwaveshapingfunction option
+#. /part[0,15]/partefx[0,2]/Distorsion/Ptype option
+#. /sysefx[0,3]/Distorsion/Ptype option
+#. /insefx[0,7]/Distorsion/Ptype option
+msgid "Lower Limiter"
+msgstr ""
+
+#. /part[0,15]/ctl/pitchwheel.bendrange_down tooltip
+#. /ctl/pitchwheel.bendrange_down tooltip
+msgid "Lower Range of MIDI Pitch Wheel"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/PDetuneType tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PDetuneType tooltip
+msgid "Magnitude of Detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Phmagtype tooltip
+msgid "Magnitude scale"
+msgstr ""
+
+#. /microtonal/Pmappingenabled tooltip
+msgid "Mapping Enable"
+msgstr ""
+
+#. /microtonal/Pmapping[0,127] tooltip
+msgid "Mapping of keys"
+msgstr ""
+
+#. /Pinsparts[0,7] option
+msgid "Master"
+msgstr ""
+
+#. /Pvolume tooltip
+#. /volume tooltip
+msgid "Master Volume"
+msgstr "Głośność kanału głównego"
+
+#. /part[0,15]/Pmaxkey tooltip
+msgid "Max Used Key"
+msgstr ""
+
+#. /microtonal/Pname tooltip
+msgid "Microtonal Name"
+msgstr ""
+
+#. /microtonal/Pcomment tooltip
+msgid "Microtonal comments"
+msgstr ""
+
+#. /part[0,15]/Pminkey tooltip
+msgid "Min Used Key"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation tooltip
+msgid "Modulation applied to Base function spectra"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMAmpEnvelopeEnabled tooltip
+msgid "Modulator Amplitude Envelope"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMCoarseDetune tooltip
+msgid "Modulator Coarse Detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetuneType tooltip
+msgid "Modulator Detune Magnitude"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMDetune tooltip
+msgid "Modulator Fine Detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMFreqEnvelopeEnabled tooltip
+msgid "Modulator Frequency Envelope"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMFixedFreq tooltip
+msgid "Modulator Frequency Fixed"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVolumeDamp tooltip
+msgid "Modulator HF dampening"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVolume tooltip
+msgid "Modulator Magnitude"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVoice tooltip
+msgid "Modulator Oscillator Selection"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMVelocityScaleFunction tooltip
+msgid "Modulator Velocity Function"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PFMEnabled tooltip
+msgid "Modulator mode"
+msgstr "Tryb modulatora"
+
+#. /part[0,15]/ctl/modwheel.exponential tooltip
+#. /ctl/modwheel.exponential tooltip
+msgid "Modwheel Exponential Mode"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/PStereo tooltip
+msgid "Mono/Stereo Enable"
+msgstr "Włącz mono/stereo"
+
+#. /part[0,15]/polyType option
+msgid "Monophonic"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncpar tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncpar tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncpar tooltip
+msgid "Morph between possible base function shapes (e.g. rising sawtooth vs a falling sawtooth)"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.mode option
+msgid "Mult"
+msgstr ""
+
+#. /part[0,15]/Pkitmode option
+msgid "Multi-Kit"
+msgstr ""
+
+#. /part[0,15]/ctl/NRPN.receive tooltip
+#. /ctl/NRPN.receive tooltip
+msgid "NRPN MIDI Enable"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Pnegate tooltip
+#. /sysefx[0,3]/Distorsion/Pnegate tooltip
+#. /insefx[0,7]/Distorsion/Pnegate tooltip
+msgid "Negate Signal"
+msgstr "Odwróć sygnał"
+
+#. /part[0,15]/Pefxroute[0,2] option
+msgid "Next Effect"
+msgstr "Następny efekt"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pfiltertype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pfiltertype option
+msgid "No Filter"
+msgstr "Brak filtrów"
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pamprandtype option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Psatype option
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pbasefuncmodulation
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Pmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pamprandtype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pbasefuncmodulation option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Psatype option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Pmodulation option
+msgid "None"
+msgstr "Brak"
+
+#. /part[0,15]/kit[0,15]/padpars/Pbwscale option
+msgid "Normal"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/coarsedetune tooltip
+msgid "Note coarse detune"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/FreqLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/padpars/AmpLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/padpars/FilterLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FreqLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/AmpLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FilterLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FreqLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/AmpLfo/Pstretch tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/FilterLfo/Pstretch tooltip
+msgid "Note frequency stretch"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/octave tooltip
+msgid "Note octave shift"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/Pnumstages tooltip
+msgid "Number of filter stages"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pnumformants tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pnumformants tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pnumformants tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pnumformants tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pnumformants tooltip
+#. /sysefx[0,3]/filterpars/Pnumformants tooltip
+#. /insefx[0,7]/filterpars/Pnumformants tooltip
+msgid "Number of formants to be used"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Poctavesfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Poctavesfreq tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Poctavesfreq tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Poctavesfreq tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Poctavesfreq tooltip
+#. /sysefx[0,3]/filterpars/Poctavesfreq tooltip
+#. /insefx[0,7]/filterpars/Poctavesfreq tooltip
+msgid "Number of octaves for formant"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Pquality.oct tooltip
+msgid "Number of octaves to sample (above the first sample"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Unison_size tooltip
+msgid "Number of subvoices"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "OFF"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Padaptiveharmonics option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Padaptiveharmonics
+#. option
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Padaptiveharmonics option
+msgid "ON"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/octave tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/octave tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/octave tooltip
+msgid "Octave note offset"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMoctave tooltip
+msgid "Octave note offset for modulator"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/Php.amp.type option
+#. /part[0,15]/kit[0,15]/Psendtoparteffect option
+#. /part[0,15]/partefx[0,2]/EQ/filter[0,7]/Ptype option
+#. /part[0,15]/Pkitmode option
+#. /sysefx[0,3]/EQ/filter[0,7]/Ptype option
+#. /insefx[0,7]/EQ/filter[0,7]/Ptype option
+#. /Pinsparts[0,7] option
+msgid "Off"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Phaser/Poffset tooltip
+#. /sysefx[0,3]/Phaser/Poffset tooltip
+#. /insefx[0,7]/Phaser/Poffset tooltip
+msgid "Offset"
+msgstr "Przesunięcie"
+
+#. /config/cfg.CheckPADsynth tooltip
+msgid "Old Check For PADsynth functionality within a patch"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/Poscilphase tooltip
+msgid "Oscillator Phase"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/oscilgen/Prand tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/OscilSmp/Prand tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/FMSmp/Prand tooltip
+msgid "Oscillator Phase Randomness: smaller than 0 is \"group\", larger than 0 is for each harmonic"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/padpars/GlobalFilter/Pgain tooltip
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/VoiceFilter/Pgain tooltip
+#. /part[0,15]/kit[0,15]/adpars/GlobalPar/GlobalFilter/Pgain tooltip
+#. /part[0,15]/kit[0,15]/subpars/GlobalFilter/Pgain tooltip
+#. /part[0,15]/partefx[0,2]/filterpars/Pgain tooltip
+#. /sysefx[0,3]/filterpars/Pgain tooltip
+#. /insefx[0,7]/filterpars/Pgain tooltip
+msgid "Output Gain"
+msgstr "Wzmocnienie wyjścia"
+
+#. /part[0,15]/partefx[0,2]/Chorus/Poutsub tooltip
+#. /sysefx[0,3]/Chorus/Poutsub tooltip
+#. /insefx[0,7]/Chorus/Poutsub tooltip
+msgid "Output Subtraction"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/Plevel tooltip
+#. /sysefx[0,3]/Distorsion/Plevel tooltip
+#. /insefx[0,7]/Distorsion/Plevel tooltip
+msgid "Output amplification"
+msgstr "Wzmocnienie wyjścia"
+
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/preset option
+msgid "Overdrive 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Distorsion/preset option
+#. /sysefx[0,3]/Distorsion/preset option
+#. /insefx[0,7]/Distorsion/preset option
+msgid "Overdrive 2"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par1 tooltip
+#. /part[0,15]/kit[0,15]/subpars/POvertoneSpread.par2 tooltip
+msgid "Overtone Parameter"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/Ppadenabled tooltip
+msgid "PADsynth enable"
+msgstr ""
+
+#. /part[0,15]/kit[0,15]/adpars/VoicePar[0,7]/PPanning tooltip
+msgid "Panning"
+msgstr "Panoramowanie"
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Panning Echo 1"
+msgstr ""
+
+#. /part[0,15]/partefx[0,2]/Echo/preset option
+#. /sysefx[0,3]/Echo/preset option
+#. /insefx[0,7]/Echo/preset option
+msgid "Panning Echo 2"
+msgstr ""
